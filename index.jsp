@@ -1,0 +1,1 @@
+</h2> Welcome to Tomcat from AWS EC2 <h2>
